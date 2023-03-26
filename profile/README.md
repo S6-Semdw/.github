@@ -3,4 +3,4 @@
 
 <h1 align="center"> Hi there my name is Sem de Wilde👋 </h1>
 
-<h3 align="center"> In this organisation i will be sharing all the project and documents that i made for semester 6. </h3>
+<h3 align="center"> In this organisation i will be sharing all the projects and documents that i made for semester 6. </h3>
